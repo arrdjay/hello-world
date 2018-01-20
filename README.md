@@ -1,2 +1,3 @@
 # hello-world
 my first github
+a little bit about myself... hmmm. i'm awake and it's way too early on a saturday morning...
